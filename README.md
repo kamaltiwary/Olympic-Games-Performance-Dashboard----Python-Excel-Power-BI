@@ -1,6 +1,6 @@
 # 🏅 Olympic Games Performance Dashboard  
 
-📌 **Project Objective**  
+📌 **Project Objective**   
 To build a **comprehensive Olympic Games Analysis Dashboard**, powered by **Python Kaggle API integration**, with the goal of delivering **end-to-end visibility** into:  
 
 - Athlete demographics & participation statistics  
