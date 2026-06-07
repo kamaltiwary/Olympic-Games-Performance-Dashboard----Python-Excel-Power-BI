@@ -368,4 +368,4 @@ Based on insights from the dashboard, several **strategic recommendations** were
 **Data Analyst**
 
 📧 **kamalnayantiwary73@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/kamalnayantiwary)  
